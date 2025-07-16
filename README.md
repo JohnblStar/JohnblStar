@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Java-2E2E2E?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-2E2E2E?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-2E2E2E?style=for-the-badge&logo=oracle&logoColor=F80000" />
-- ✉️ 이메일: `hanbyeol.dev@gmail.com`
+- ✉️ 이메일: `johnblstar102@gmail.com`
 
 ---
 
