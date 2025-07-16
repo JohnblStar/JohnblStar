@@ -1,8 +1,12 @@
-<!-- 🖤 JohnblStar의 프로필 README -->
+<!-- ⚡ 조한별님의 세련된 README -->
 
 <h1 align="center">안녕하세요 👋, 개발자 조한별입니다</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=9FA4A9&size=24&center=true&vCenter=true&width=500&lines=기능에+집중합니다.;코드는+행동으로+보여주는+철학입니다.;GitHub를+방문해+주셔서+감사합니다.">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=200&section=header&text=JohnblStar&fontColor=white&fontSize=40&desc=Developer%20&%20Problem%20Solver&descAlignY=30" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=AAAAAA&size=24&center=true&vCenter=true&width=500&lines=기술로+증명합니다.;코드는+말보다+강합니다.">
 </p>
 
 ---
@@ -58,10 +62,10 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="johnblstar102@gmail.com" target="_blank">
+  <a href="mailto:johnblstar102@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_ratsen0" target="_blank">
+  <a href="https://www.instagram.com/johnblstar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
