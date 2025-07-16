@@ -1,9 +1,6 @@
 <!-- ⚡ 조한별님의 세련된 README -->
 
 <h1 align="center">안녕하세요 👋, 개발자 조한별입니다</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=200&section=header&text=JohnblStar&fontColor=white&fontSize=40&desc=Developer%20&%20Problem%20Solver&descAlignY=30" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&color=AAAAAA&size=24&center=true&vCenter=true&width=500&lines=기술로+증명합니다.;코드는+말보다+강합니다.">
@@ -34,10 +31,10 @@
 
 ---
 
-### 📈 활동 요약
+### 🐍 활동 애니메이션
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/JohnblStar?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&config.timezone=Asia%2FSeoul" />
+  <img src="https://github.com/JohnblStar/JohnblStar/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
