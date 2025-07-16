@@ -48,8 +48,9 @@
 ---
 
 ### 👀 방문자 수
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnblStar&color=gray" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=JohnblStar&label=Profile%20Views&color=2E2E2E&style=for-the-badge&logo=GitHub" />
 </p>
 
 ---
