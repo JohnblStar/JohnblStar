@@ -54,14 +54,14 @@
 
 ---
 
-### 🔗 포트폴리오 & SNS
+### 📫 Contact
 
 <p align="center">
-  <a href="https://hanbyeol.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E2E2E?style=for-the-badge&logo=Firefox&logoColor=white" />
+  <a href="johnblstar102@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/JohnblStar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/_ratsen0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
