@@ -54,7 +54,7 @@
   <a href="mailto:johnblstar102@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/johnblstar" target="_blank">
+  <a href="https://www.instagram.com/ratsen0_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-2E2E2E?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
