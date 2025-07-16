@@ -31,17 +31,33 @@
 
 ---
 
-### ⌛️ 연속 활동 기록
+### 📌 대표 프로젝트
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanbyeolcho&theme=radical" />
+  <a href="https://github.com/hanbyeolcho/your-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanbyeolcho&repo=your-project&theme=radical" />
+  </a>
+  <a href="https://github.com/hanbyeolcho/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanbyeolcho&repo=another-project&theme=radical" />
+  </a>
 </p>
 
 ---
 
-### 🎵 현재 듣는 음악  
-<!-- Spotify Now Playing 위젯은 해당 사용자 인증 필요 -->
-<p align="center">  
-  🎧 <i>현재 재생 중인 음악을 표시하려면 Spotify 계정과 연동이 필요합니다.</i>  
+### 🧰 기술 스택 아이콘
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 👀 방문자 수
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hanbyeolcho&color=brightgreen" alt="visitor count" />
 </p>
 
 ---
