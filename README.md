@@ -31,14 +31,6 @@
 
 ---
 
-### 🐍 활동 애니메이션
-
-<p align="center">
-  <img src="https://github.com/JohnblStar/JohnblStar/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📌 대표 프로젝트
 
 <p align="center">
