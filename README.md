@@ -30,10 +30,10 @@
 
 ---
 
-### 🏆 트로피
+### 🏆 활동 트로피
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnblStar&theme=darkhub&margin-w=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnblStar&theme=darkhub&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
 ---
